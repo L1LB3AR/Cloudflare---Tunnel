@@ -22,7 +22,7 @@ external access to the home lab without exposing open ports to the internet.
 ## ✅ Roadmap
 
 - [ ] Cloudflare account setup and domain configuration
-- [ ] cloudflared installation on server
+- [ ] Cloudflared installation on server
 - [ ] First tunnel — expose Grafana dashboard securely
 - [ ] Custom domain with HTTPS for home lab services
 - [ ] WireGuard VPN installation and configuration
